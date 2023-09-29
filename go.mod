@@ -6,5 +6,7 @@ require (
 	github.com/Mongey/ksql v0.0.0-20190529181749-2c1a4ea00a44
 	github.com/Mongey/terraform-provider-kafka v0.2.0
 	github.com/hashicorp/go-hclog v0.0.0-20190109152822-4783caec6f2e // indirect
-	github.com/hashicorp/terraform v0.12.0
+	github.com/hashicorp/terraform v0.12.17
+	github.com/stretchr/testify v1.8.2 // indirect
+	golang.org/x/crypto v0.6.0 // indirect
 )
